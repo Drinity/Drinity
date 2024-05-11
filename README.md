@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hello, I'm Drinity 👋</h1>
 </div>
-<img src="https://imgur.com/a/zOHxYua">
+<img src="https://imgur.com/a/zOHxYua.png">
+
+
 
 <!--
 **Drinity/Drinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
