@@ -9,17 +9,26 @@
 - ✨ CEO at SwiftID Technology
 - 📨 Feel free to talk to me drinity2@gmail.com
 
-## Technologies that i know
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Drinity&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Drinity&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+## Technologies i know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,java,kotlin,notion,latex,cpp,python,discord,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,git,java,kotlin,notion,latex,cpp,python,discord,vscode" />
   </a>
 </p>
 
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect with me🤝</h2></summary>
   </ul>
 </div>
 
