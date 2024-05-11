@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/mv4goH3.png">
 
 - 🔭 I’m currently working on **Gaia and Horus**
-- 🌱 I’m currently learning Kotlin, KMP, Firebase
+- 🌱 I’m currently learning **Kotlin, KMP, Firebase**
 - 🤓 I’m Junior Developer
 - ✨ CEO at SwiftID Technology
 - 📨 Feel free to talk to me drinity2@gmail.com
