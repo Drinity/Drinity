@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Gaia and Horus**
 - 🌱 I’m currently learning **Kotlin, KMP and Firebase**
 - 🤓 I’m Junior Developer
-- ✨ CEO at SwiftID Technology
+- ✨ CEO at Override
 - 📨 Feel free to talk to me drinity2@gmail.com
 
 ### ⚙️ &nbsp;GitHub Analytics
