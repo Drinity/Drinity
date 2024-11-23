@@ -24,7 +24,7 @@
 ## Technologies i know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,java,kotlin,notion,latex,cpp,python,discord,vscode,JavaFX,firebase,arduino,gcp,notion" />
+    <img src="https://skillicons.dev/icons?i=github,git,java,kotlin,notion,latex,cpp,python,discord,vscode,firebase,arduino,gcp,notion" />
   </a>
 </p>
 
