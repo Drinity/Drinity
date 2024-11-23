@@ -3,8 +3,8 @@
 </div>
 <img src="https://i.imgur.com/mv4goH3.png">
 
-- 🔭 I’m currently working on **Gaia and Horus**
-- 🌱 I’m currently learning **Kotlin, KMP and Firebase**
+- 🔭 I’m currently working on **Horus**
+- 🌱 I’m currently learning **Python, C++ and Firebase**
 - 🤓 I’m Junior Developer
 - ✨ CEO at Override
 - 📨 Feel free to talk to me drinity@override.com.mx
