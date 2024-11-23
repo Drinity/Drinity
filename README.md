@@ -41,4 +41,4 @@
 <a href="https://discordapp.com/users/870179094715854879" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
 
-Last Edited on: 8/8/2024
+Last Edited on: 22/11/2024
