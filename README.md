@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Drinity 👋</h1>
 </div>
 
-![Ups... Imagen no encontrada](./assets/Banner GitHub.png)
+![Ups... Imagen no encontrada](./assets/Banner_GitHub.png)
 
 - 🔭 I’m currently working on **Horus**
 - 🌱 I’m currently learning **Python, C++ and Firebase**
