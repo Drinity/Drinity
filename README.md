@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Drinity 👋</h1>
 </div>
-<img src="https://imgur.com/a/pltcpwt">
+<img src="https://imgur.com/a/pltcpw.png">
 
 - 🔭 I’m currently working on **Horus**
 - 🌱 I’m currently learning **Python, C++ and Firebase**
