@@ -4,18 +4,18 @@
 
 ![Ups... Imagen no encontrada](./assets/Banner_GitHub.png)
 
-- [cite_start]🔭 I’m currently working on **Horus** and leading projects at **Override**.
-- [cite_start]🌱 I’m currently focusing on **Rust** for high-performance software.
-- [cite_start]🚀 Specialized in **Backend Development**, Clean Architecture, and SOLID principles[cite: 2, 6, 7].
-- [cite_start]🏆 1st Place Winner at **Innovatec 2025** (Local & Regional) with Project Lyra[cite: 6, 9].
-- [cite_start]✨ **CEO at Override**[cite: 7].
-- [cite_start]📨 Feel free to talk to me: **drinity@override.com.mx** or **dritiny@proton.me**[cite: 3].
+- 🔭 I’m currently working on **Horus** and leading projects at **Override**.
+- 🌱 I’m currently focusing on **Rust** for high-performance software.
+- 🚀 Specialized in **Backend Development**, Clean Architecture, and SOLID principles.
+- 🏆 1st Place Winner at **Innovatec 2025** (Local & Regional) with Project Lyra.
+- ✨ **CEO at Override**.
+- 📨 Feel free to talk to me: **drinity@override.com.mx** or **dritiny@proton.me**.
 
 ### 🛠️ Featured Projects & Achievements
-* [cite_start]**Project Lyra:** 1st Place in Health & Technology categories (Innovatec 2025)[cite: 6, 9].
-* [cite_start]**Project Quickness:** Modular microservices ecosystem for payment and access management.
-* [cite_start]**STAK:** Robust tokenization and authentication system developed with FastAPI[cite: 6, 7].
-* [cite_start]**Override Mindstack 2025:** Co-organizer and problem designer for the NP-Hard challenge "Quimera".
+* **Project Lyra:** 1st Place in Health & Technology categories (Innovatec 2025).
+* **Project Quickness:** Modular microservices ecosystem for payment and access management.
+* **STAK:** Robust tokenization and authentication system developed with FastAPI.
+* **Override Mindstack 2025:** Co-organizer and problem designer for the NP-Hard challenge "Quimera".
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -35,12 +35,6 @@
   </a>
 </p>
 
-### 📚 Education & Skills
-* [cite_start]**Education:** B.S. in Computer Systems Engineering (2022 - Present).
-* [cite_start]**Architectures:** Clean Architecture, Hexagonal.
-* [cite_start]**Infrastructure:** Docker, Docker Compose, Google Cloud, Supabase, Vercel.
-* [cite_start]**Languages:** Spanish (Native), English (Professional).
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect with me 🤝</h2></summary>
@@ -52,4 +46,4 @@
 <a href="https://discordapp.com/users/870179094715854879" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
 
-Last Edited on: 25/12/2025
+Last Edited on: 26/12/2025
